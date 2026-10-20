@@ -1,1 +1,1 @@
-# Proyek ini berisi implementasi sederhana dalam bahasa Python yang mengilustrasikan alur kerja (workflow) Machine Learning (Supervised Learning), mulai dari pemrosesan data awal hingga evaluasi model.
+Proyek ini berisi implementasi sederhana dalam bahasa Python yang mengilustrasikan alur kerja (workflow) Machine Learning (Supervised Learning), mulai dari pemrosesan data awal hingga evaluasi model.
